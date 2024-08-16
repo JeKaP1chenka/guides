@@ -24,8 +24,19 @@
 
 ### TODO
 
+<!-- 
+- [ ] Finish writing the project proposal
+  - NOTE: Include budget estimation
+- [ ] Implement user profile page
+  - // Consider adding profile picture support
+- [ ] Review codebase for legacy components
+    > This might involve rewriting some modules -->
+
 - [x] WireGuard
 - [x] WireGuard in docker
 - [ ] configure zsh
 - [ ] multiple accounts on github
 - [ ] misc about ssh
+- [ ] misc about docker (NOTE: explain wait-for-it.sh)
+  - [ ] postgres in docker
+  - [ ] python in docker
