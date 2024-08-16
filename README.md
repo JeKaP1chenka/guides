@@ -24,4 +24,8 @@
 
 ### TODO
 
-[]
+- [x] WireGuard
+- [x] WireGuard in docker
+- [ ] configure zsh
+- [ ] multiple accounts on github
+- [ ] misc about ssh
