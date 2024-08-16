@@ -3,7 +3,8 @@
 ## Контент
 
 1. [Настройка wireguard на сервере](#настройка-wireguard-на-сервере)
-2. [Создание клиента](#создание-клиента)
+1. [Создание клиента](#создание-клиента)
+1. [Полезные ссылки](#ссылки)
 
 ## Настройка wireguard на сервере
 
@@ -88,7 +89,7 @@ systemctl status <wg-quick@wg0.service>
 
 ## Создание клиента
 
--Создаём ключи клиента:
+- Создаём ключи клиента:
 
 ```bash
 wg genkey | tee /etc/wireguard/<client_name>_privatekey | wg pubkey | tee /etc/wireguard/<client_name>_publickey
@@ -194,3 +195,8 @@ Endpoint = <SERVER-IP>:51830
 AllowedIPs = 0.0.0.0/0
 PersistentKeepalive = 20
 ```
+
+## Ссылки
+
+1. [Видео по настройки WireGuard от 'Диджитализируй!'](https://www.youtube.com/watch?v=5Aql0V-ta8A)
+2. [Текстовое описание видео из первой ссылки(от сюда я взял почти весь материал)](https://t.me/t0digital/32)
