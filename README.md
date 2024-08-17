@@ -4,6 +4,7 @@
 
 1. [WireGuard](#wireguard)
 1. [Docker](#docker)
+1. [Linux](#linux)
 1. [TODO](#todo)
 
 ### WireGuard
@@ -22,6 +23,19 @@
     - [Настройка Docker WireGuard](./docker/docker_wireguard.md#настройка-docker-wireguard)
     - [Полезные ссылки](./docker/docker_wireguard.md#links)
 
+### Linux
+
+1. [настройка zsh](./linux/zsh.md)
+
+### Study
+
+- [ ] kubernetes
+- [ ] jenkins
+- [ ] terraform
+- [ ] ansible
+- [ ] nginx
+- [ ] [dive](https://github.com/wagoodman/dive) (utility for docker)
+
 ### TODO
 
 <!-- 
@@ -34,9 +48,10 @@
 
 - [x] WireGuard
 - [x] WireGuard in docker
-- [x] configure zsh
-- [ ] multiple accounts on github
-- [ ] misc about ssh
-- [ ] misc about docker (NOTE: explain wait-for-it.sh)
+- [x] Configure zsh
+- [ ] Multiple accounts on github
+- [ ] Misc about ssh
+- [ ] Misc about docker (NOTE: explain wait-for-it.sh)
   - [ ] postgres in docker
   - [ ] python in docker
+

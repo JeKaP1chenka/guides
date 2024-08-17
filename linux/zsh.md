@@ -3,8 +3,8 @@
 ## Content
 
 1. [Install](#install)
-1. [Part 2](#part-2)
-1. [Part 3](#links)
+1. [Configure](#configure-zsh-1)
+1. [Links](#links)
 
 ## Install
 
