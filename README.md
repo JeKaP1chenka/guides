@@ -34,7 +34,7 @@
 
 - [x] WireGuard
 - [x] WireGuard in docker
-- [ ] configure zsh
+- [x] configure zsh
 - [ ] multiple accounts on github
 - [ ] misc about ssh
 - [ ] misc about docker (NOTE: explain wait-for-it.sh)
