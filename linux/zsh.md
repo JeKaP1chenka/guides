@@ -114,6 +114,7 @@ fi
 
 1. [Видео с настройкой `zsh`][7]
 1. [Текстовой вариант с настройкой `zsh`][8]
+1. [еще одно видео с настройкой][9]
 1. [Официальный сайт `oh my zsh`][1]
 1. [Темы `oh my zsh`][4]
 1. [Плагины `oh my zsh`][5]
@@ -128,3 +129,4 @@ fi
 [6]: https://google.com
 [7]: https://www.youtube.com/watch?v=6qzyWLZha0E
 [8]: https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
+[9]: https://www.youtube.com/watch?v=3ehW9XoTOJQ
