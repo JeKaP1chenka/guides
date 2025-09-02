@@ -5,6 +5,7 @@
 1. [WireGuard](#wireguard)
 1. [Docker](#docker)
 1. [Linux](#linux)
+1. [Git](#git)
 1. [TODO](#todo)
 
 ### WireGuard
@@ -26,6 +27,12 @@
 ### Linux
 
 1. [настройка zsh](./linux/zsh.md)
+
+### Git
+
+1. [git](./git/git.md)
+
+
 
 ### Study
 
